@@ -1,6 +1,6 @@
 # Ecommerce-multi-vendor-grocery-app
 
-> Ecommerce grocery client app and vendor app developed using Flutter and Firebase.
+> Ecommerce grocery client app and vendor app developed using <b>Flutter</b> and <b>Firebase</b>.
 > Razorpay is integrated for online payment.
 
 <!-- > Features/Modules include:-
